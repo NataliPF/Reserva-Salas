@@ -6,4 +6,5 @@ Desafio hackathon Senac/SP Lapa Tito com objetivo de criar um sistema que permit
 O sistema utiliza um banco de dados desenvolvido com o [MySql](https://www.mysql.com/)
 
 ### Diagrama
-![image](/banco_de_dados/DIAGRAMA.png)
+![Diagrama do Banco de Dados](https://github.com/NataliPF/Reserva-Salas/blob/main/banco%20de%20dados/DIAGRAMA.png)
+
